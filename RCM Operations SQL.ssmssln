@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 20.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "RCM Operations SQL", "RCM Operations SQL\RCM Operations SQL.ssmssqlproj", "{617E6ABB-7E51-419F-89D6-F4005FC1FCD8}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "RCM Database Debugging", "..\RCM Database Debugging\RCM Database Debugging\RCM Database Debugging.ssmssqlproj", "{FB03C581-BA78-4499-980F-21CE9E663631}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E870C43-EF00-44C7-A3E5-EF40CE7E3384}.Default|Default.ActiveCfg = Default
+		{617E6ABB-7E51-419F-89D6-F4005FC1FCD8}.Default|Default.ActiveCfg = Default
+		{FB03C581-BA78-4499-980F-21CE9E663631}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9A3ED3-7B91-4EDB-9ABF-DDC4AD89DDC0}
+	EndGlobalSection
+EndGlobal
